@@ -4,7 +4,7 @@ O objetivo deste projeto é melhorar o apoio operacional à pesquisa sem enfraqu
 
 ## Situação atual
 
-A licença e a identificação pública de quem mantém o projeto ainda estão pendentes. Enquanto isso, priorize relatos de problemas e sugestões descritivas. Antes de enviar conteúdo para incorporação, confirme com a pessoa responsável os termos de contribuição e reutilização. Este arquivo não estabelece cessão de direitos nem uma licença implícita.
+A licença de reutilização ainda está em definição. Enquanto isso, dúvidas, relatos de problemas e sugestões podem ser apresentados pelas Issues deste repositório, quando habilitadas. Antes de enviar conteúdo para incorporação, confirme os termos de contribuição com BrendaCSOficial.
 
 ## Contribuições úteis
 
