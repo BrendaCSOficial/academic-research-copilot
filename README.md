@@ -178,8 +178,10 @@ Quando a tarefa envolver Zotero, o módulo de gestão bibliográfica remete ao [
 
 A redação e a organização destes arquivos foram elaboradas com apoio de IA a partir de requisitos e materiais definidos pela pessoa responsável pelo projeto. Essa informação não substitui a revisão humana nem representa aprovação institucional.
 
-## Autoria e licença
+## Autoria
 
-Esta versão está em preparação para publicação. A identificação pública da autoria/manutenção e a licença ainda precisam ser confirmadas pela pessoa responsável. Nenhuma licença aberta foi aplicada automaticamente.
+Projeto criado por [BrendaCSOficial](https://github.com/BrendaCSOficial), com apoio de inteligência artificial na estruturação e redação das instruções e da documentação.
 
-Não trate a disponibilidade de arquivos como autorização geral para reutilização ou redistribuição. Consulte a [orientação oficial do GitHub sobre licenças](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) e confirme a licença antes de compartilhar derivados ou incorporar conteúdo ao projeto.
+## Licença
+
+A licença de reutilização está em definição. Os termos de uso, adaptação e redistribuição serão informados neste repositório após sua escolha.
